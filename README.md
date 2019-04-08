@@ -9,4 +9,4 @@ For the sound reacting part: http://www.jerome-bernard.com/blog/2013/01/12/rgb-l
 for the RGB circuit and code part: http://www.instructables.com/id/Sound-Reactive-LED-strip/?ALLSTEPS
 
 # More Info
-Go to Pouletgrill.com to get the PCB for the project and more specification
+Go to http://pouletgrill.com to get the PCB for the project and more specification
